@@ -1,0 +1,17 @@
+{
+  "name": "taxer_test",
+  "version": "1.0.0",
+  "description": "Test task for Taxer company",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run -b chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  },
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
